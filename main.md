@@ -8,7 +8,7 @@ The `/g` lets vim know to replace all instances and not just the first. The firs
 
 ![Image](after.png)
 
-![Image](vim.png)
+![Image](vimChange.png)
 
 
 ## Part 2
